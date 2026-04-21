@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: antiquewhite;
+    padding: 20px;
+}
+h1 {
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+    color: black;
+    background-color: skyblue;
+    padding: 1em;
+}
+
+h3 {
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    background-color: wheat;
+}
+
+.link {
+    font-size: larger;
+}
+
+img {
+    float: inline-end;
+}
+
+p,
+ul,
+ol {
+    margin: 20px;
+    padding: 20 px;
+}
